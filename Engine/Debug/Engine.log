@@ -1,0 +1,26 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  timerclass.cpp
+  textureshaderclass.cpp
+  textureclass.cpp
+  systemclass.cpp
+  shadermanagerclass.cpp
+  positionclass.cpp
+  modelclass.cpp
+  main.cpp
+  lightshaderclass.cpp
+  lightclass.cpp
+  inputclass.cpp
+  graphicsclass.cpp
+B:\University Projects\Real-time Rendering Assignment\Engine\graphicsclass.cpp(57,22): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+B:\University Projects\Real-time Rendering Assignment\Engine\graphicsclass.cpp(113,28): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+B:\University Projects\Real-time Rendering Assignment\Engine\graphicsclass.cpp(453,6): warning C4101: 'treeCount': unreferenced local variable
+  fireshaderclass.cpp
+  firemodelclass.cpp
+  DDSTextureLoader.cpp
+  d3dclass.cpp
+  cameraclass.cpp
+  bumpmodelclass.cpp
+  bumpmapshaderclass.cpp
+  Generating Code...
+bumpmapshaderclass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Engine.vcxproj -> B:\University Projects\Real-time Rendering Assignment\Debug\Engine.exe
